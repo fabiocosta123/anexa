@@ -10,6 +10,14 @@ body {
     margin: 0 auto;
 }
 
+
+.logo {
+    width: 60px;
+    height: 60px;
+    
+    
+}
+
 .nav__list {
     display: flex;
     justify-content: space-around;
@@ -30,4 +38,13 @@ body {
     text-decoration: none;
     color: blue;
    
+}
+
+.nav__search {
+    height: 20px;
+    width: 200px;
+    border: 2px solid #ced4da;
+    border-radius: 5px;
+    padding: 3px;
+    
 }
